@@ -34,3 +34,5 @@ The dataset includes the following fields:
 - Expand analysis using larger datasets
 - Automate reporting using SQL views
 - Add additional risk metrics
+
+*Note: Dataset contains synthetic loan application data create for analysis purposes.
